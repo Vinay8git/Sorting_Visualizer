@@ -1,1 +1,6 @@
-## Algo-Visualizer
+## Sorting-Visualizer
+#Bubble Sort
+#Selection Sort
+#Insertion Sort
+#Quick Sort
+#Merge Sort
